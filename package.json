@@ -1,0 +1,12 @@
+{
+  "name": "telegram-miniapp-types",
+  "version": "1.0.0",
+  "author": "Negasus (https://negasus.dev)",
+  "description": "Type definitions for telegram miniapp",
+  "license": "ISC",
+  "keywords": ["telegram"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/go-telegram/miniapp-types.git"
+  }
+}
